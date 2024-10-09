@@ -3,6 +3,6 @@ class file1{
   public static void main(String[] args)
   {
     //Hello I am Learning GitHub
-    //Learning how to use pull request
+    Learning how to use pull request
   }
 }
